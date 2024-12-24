@@ -1,5 +1,5 @@
 # Project Name
-> Outline a brief description of your project.
+> BoomBikes, Buike sharing Linear Regression project.
 
 
 ## Table of Contents
